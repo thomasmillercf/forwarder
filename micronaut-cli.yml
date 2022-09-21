@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.marksandspencer.identity
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, azure-function, azure-function-http, gradle, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, readme, yaml]
